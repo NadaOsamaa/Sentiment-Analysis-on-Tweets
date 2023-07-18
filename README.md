@@ -35,4 +35,4 @@ A function is implemented to test the LR model on a given tweet. The function ta
 - This code was created by [Nada Osama](https://github.com/NadaOsamaa)
 - [Sentiment Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140) was obtained from Kaggle
   
-Note: The dataset contains 1.6 million records, so it may take a long time to run. Feel free to split the data befor fitting the model.
+Note: The dataset contains 1.6 million records, so it may take a very long time to run. Feel free to split the data before fitting the model.
